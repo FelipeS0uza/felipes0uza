@@ -1,5 +1,21 @@
 # 👋 Olá, eu sou o Felipe Souza
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=felipes0uza&label=Visualizações&color=0e75b6&style=flat" alt="contador" />
+</p>
+
+<div> 
+
+<a href="mailto:felipesouza0500@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/felipe-rodrigues2023" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
 ## 🚀 Desenvolvedor Full Stack Jr | React.js • Java • Spring Boot • APIs REST
 
 🎯 Desenvolvedor focado na criação de aplicações web modernas, responsivas e escaláveis utilizando React.js, Java e Spring Boot.
@@ -141,22 +157,6 @@ Busco oportunidades como:
 
 ---
 
-# 🌎 Onde me encontrar
-
-<div> 
-
-<a href="mailto:felipesouza0500@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/felipe-rodrigues2023" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
----
-
 # ⚡ Diferenciais
 
 ✔️ Experiência profissional com suporte técnico e resolução de problemas  
@@ -165,11 +165,3 @@ Busco oportunidades como:
 ✔️ Desenvolvimento de aplicações web modernas  
 ✔️ Organização e boas práticas de código  
 ✔️ Forte interesse em evolução contínua  
-
----
-
-<div align="center">
-
-### 🚀 “Transformando aprendizado em soluções reais através da tecnologia.”
-
-</div>
