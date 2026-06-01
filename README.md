@@ -58,44 +58,6 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Full Stack Jr, F
 
 ---
 
-# 🚀 Projetos em Destaque
-
-## 📌 Sistema de Agendamento de Tarefas
-Aplicação Back End utilizando Java Spring Boot, PostgreSQL, MongoDB e FeignClient 
-
-### 🔥 Funcionalidades:
-- Autenticação JWT
-- APIs REST
-- CRUD completo de usuários e tarefas
-- Envio de e-mails automáticos com Java Mail Sender, Template Engine e CRON
-- Docker
-- Banco de dados relacional e não relacional
-
-### 🛠️ Tecnologias:
-Java • Spring Boot • PostgreSQL • MongoDB • FeigClient • Docker
-
- 
-📂 Repositório: https://github.com/FelipeS0uza/bff-agendador-tarefas
-
----
-
-## 📌 API REST com Spring Boot
-API RESTful desenvolvida com Java e Spring Boot seguindo boas práticas de arquitetura.
-
-### 🔥 Funcionalidades:
-- CRUD completo
-- Validação de dados
-- Tratamento de exceções
-- Integração com banco de dados
-- Arquitetura em camadas
-
-### 🛠️ Tecnologias:
-Java • Spring Boot • PostgreSQL
-
-📂 Repositório: https://github.com/FelipeS0uza/usuario
-
----
-
 # 📚 Atualmente estudando
 
 - Spring Security
