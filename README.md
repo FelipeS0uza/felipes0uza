@@ -107,18 +107,6 @@ Atualmente busco minha primeira oportunidade como Desenvolvedor Full Stack Jr, F
 
 ---
 
-# 🎯 Objetivos Profissionais
-
-Busco oportunidades como:
-
-- Desenvolvedor Front-end Jr
-- Desenvolvedor Full Stack Jr
-- Desenvolvedor Java Jr
-- Estágio em Desenvolvimento
-- Vagas remotas em tecnologia
-
----
-
 # ⚡ Diferenciais
 
 ✔️ Experiência profissional com suporte técnico e resolução de problemas  
