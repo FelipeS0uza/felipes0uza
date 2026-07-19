@@ -22,7 +22,6 @@
 
 Tenho experiência profissional com suporte técnico, análise operacional e resolução de problemas, habilidades que fortaleceram minha visão analítica e hoje aplico no desenvolvimento de software.
 
-Atualmente busco minha primeira oportunidade como Desenvolvedor Full Stack Jr, Front-end Jr ou Java Developer Jr, contribuindo com soluções eficientes, aprendizado contínuo e desenvolvimento de sistemas reais.
 
 ---
 
